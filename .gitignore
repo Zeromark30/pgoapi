@@ -90,3 +90,5 @@ ENV/
 
 # Personal load details
 config.json
+data.json
+test.json
